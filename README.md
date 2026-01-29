@@ -30,7 +30,7 @@ The dataset includes regional healthcare metrics such as:
 ## Tools & Technologies Used
 - **Power BI** – Data modeling, DAX measures, and interactive dashboards  
 - **Excel** – Data cleaning and preprocessing  
-- **SQL** (optional) – Data extraction and aggregation  
+ 
 
 
 
@@ -71,10 +71,8 @@ The dataset includes regional healthcare metrics such as:
 ## Conclusion
 This analysis highlights significant disparities in healthcare accessibility across regions. By leveraging data visualization and analytics, stakeholders can better understand where interventions are needed most and make informed decisions to improve healthcare outcomes.
 
----
+
 
 ## Author
 **Agbanoma Williams**  
 Data Analyst | Power BI | Excel | SQL  
-📧 Email: eagbanoma@gmail.com  
-🔗 GitHub: https://github.com/YOURUSERNAME
